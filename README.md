@@ -40,4 +40,4 @@ This limits acess to my repository to choose collaborators, by setting both my r
 This allow for the storing of sensitive credentials as variables where the code is running, this will come into play when creating API.
 
 ##### Burndown Chart
-[Download Excel File] (github.com/Tshepiso37/CMPG-323-Overview-25431285/BurnDownChart.xlsx)
+[Download Excel File] (https://github.com/Tshepiso37/CMPG-323-Overview-25431285/blob/main/Burndown%20Chart.xlsx) 
