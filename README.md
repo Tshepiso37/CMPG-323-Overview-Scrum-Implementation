@@ -12,7 +12,7 @@ This repository is an outline of what to come in the semester. It documents the 
 ### Project 2: API Development
 Repository: [Project2](https://github.com/your-username/Project2)
 
-Prior training required for this repository is Cloud Basics and API Bacis. .NET Core should be used to develop an API. The developed API should be hosted on the Cloud. A REST model will be used. A CRUD RESTful API will be created, which should connect to a database storing logistics data that will manage services of EcoPower Logistics.
+Prior training required for this repository is Cloud Basics and API Bacis. .NET Core will be used to develop an API. The developed API should be hosted on the Cloud. A REST model will be used. A CRUD RESTful API will be created, which should connect to a database storing logistics data that will manage services of EcoPower Logistics.
 
 ### Project 3: Patterns & Standards
 Repository: [Project3](https://github.com/your-username/Project3)
