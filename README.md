@@ -9,7 +9,7 @@ Repository: [Project1](https://github.com/your-username/CMPG-323-Overview-254312
 
 This repository is an outline of what to come in the semester. It documents the projects that will be created, creates milestones and clear labels that will be used in the repositories that will be created during in the semester. It requires prior training in Agile & Scrum, and Source Control.  
 
-### Project 2: API Development
+### Project 2: API Development 
 Repository: [Project2](https://github.com/your-username/Project2)
 
 Prior training required for this repository is Cloud Basics and API Bacis. .NET Core will be used to develop an API. The developed API should be hosted on the Cloud. A REST model will be used. A CRUD RESTful API will be created, which should connect to a database storing logistics data that will manage services of EcoPower Logistics.
