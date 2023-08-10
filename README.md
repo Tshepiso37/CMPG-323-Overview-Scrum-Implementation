@@ -19,7 +19,7 @@ Repository: [Project3](https://github.com/your-username/Project3)
 
 The prior training required for this project is Design Patterns Basic, Architecture Pattern Basics, and Coding Standards Basics. .NET Core MVC Web Application is to be used. the Design Pattern is to be applied to and already existing project that will be provided. A Web App is required to be hosted on Cloud, using Azure. 
 
-### Project 4: Testing & RPA
+### Project 4: Testing & RPA 
 Repository: [Project4](https://github.com/your-username/Project4)
 
 The prior training required for this project Testing Basics, RPA and Automation Basics. A UiPath should be used. Testing is required by entering data from an already existing dataset into an existing web application. Different types of testing should be explored, and thorough understanding of the use of RPA.
