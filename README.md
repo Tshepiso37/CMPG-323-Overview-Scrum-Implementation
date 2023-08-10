@@ -4,7 +4,7 @@ Project
 
 To follow will be the repositories that be created and used for each project in the CMPG 323 module. The created repositories will store code, documentation, and other work related to each project.
 
-### CMPG-323-Overview-25431285: Overview(Agile & Scrum Implementation)
+### CMPG-323-Overview-25431285: Overview(Agile & Scrum Implementation) 
 Repository: [Project1](https://github.com/your-username/CMPG-323-Overview-25431285)
 
 This repository is an outline of what to come in the semester. It documents the projects that will be created, creates milestones and clear labels that will be used in the repositories that will be created during in the semester. It requires prior training in Agile & Scrum, and Source Control.  
