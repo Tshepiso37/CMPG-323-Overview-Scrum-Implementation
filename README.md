@@ -14,7 +14,7 @@ Submission Date: 31 Ausust 2023 @ 17:00.
 Prior training required for this repository is Cloud Basics and API Bacis. .NET Core will be used to develop an API. The developed API should be hosted on the Cloud. A REST model will be used. A CRUD RESTful API will be created, which should connect to a database storing logistics data that will manage services of EcoPower Logistics.
 
 ### Project 3: Patterns & Standards
-Submission Date: 21 September 2023 @ 17:00.
+Submission Date: 21 September 2023 @ 17:00. 
 The prior training required for this project is Design Patterns Basic, Architecture Pattern Basics, and Coding Standards Basics. .NET Core MVC Web Application is to be used. the Design Pattern is to be applied to and already existing project that will be provided. A Web App is required to be hosted on Cloud, using Azure. 
 
 ### Project 4: Testing & RPA 
